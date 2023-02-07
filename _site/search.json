@@ -1,0 +1,19 @@
+// 20230207165241
+// https://raw.githubusercontent.com/vanHeemstraSystems/creations-acts/main/_site/search.json
+
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Creations - Act II",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
