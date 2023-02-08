@@ -5,7 +5,7 @@ creations-act-ii
 
 Part of "Creations - Act II" at https://github.com/vanHeemstraSystems/creations-act-ii
 
-Can be read as "Creations - Act II" at https://app.gitbook.com/s/Rs3XPuVclvoj92Exb9AA/
+Can be read as "Creations - Act II" at https://app.gitbook.com/o/NOqeW3nD9tJaUGh3bDjj/s/18kaIMCBXETzDoD6sw3j/
 
 Can be browsed as "Creations - Act II" at https://vanheemstrasystems.github.io/creations-act-ii/
 
