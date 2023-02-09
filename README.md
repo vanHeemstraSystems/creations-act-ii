@@ -3,7 +3,7 @@
 creations-act-ii
 # Creations - Act II
 
-Part of "Creations - Act II" at https://github.com/vanHeemstraSystems/creations-act-ii
+Part of "Creations - Acts" at https://github.com/vanHeemstraSystems/creations-acts
 
 Can be read as "Creations - Act II" at https://app.gitbook.com/o/NOqeW3nD9tJaUGh3bDjj/s/18kaIMCBXETzDoD6sw3j/
 
