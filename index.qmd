@@ -8,8 +8,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Based on "A gradual Prepare-Build-Scale roadmap approach toward the future of applications." at https://www.gartner.com/doc/reprints?id=1-250QS2PJ&ct=210113&st=sb
 
-
-
+![Strategic_Roadmap_Timeline_for_the_Future_of_Applications](https://github.com/vanHeemstraSystems/creations-act-ii/assets/1499433/cb0e3d90-af4c-41c4-9ea2-6f6e34c6da2e)
 
 Navigate the Roadmap Gradually: Prepare, Build and Then Scale
 
